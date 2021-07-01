@@ -1,0 +1,49 @@
+/* line 1, ../../../../../Downloads/css-masonry/files/css/Weiner.scss */
+.grid-item {
+  font-family: Helvetica;
+  width: 280px;
+  padding: 10px;
+  min-height: 40px;
+}
+
+/* line 6, ../../../../../Downloads/css-masonry/files/css/Weiner.scss */
+.grid-item img {
+  max-width: 100%;
+}
+
+/* line 9, ../../../../../Downloads/css-masonry/files/css/Weiner.scss */
+.grid-item h4 {
+  margin: 5px 0;
+  font-size: 16px;
+  color: #222;
+}
+
+/* line 14, ../../../../../Downloads/css-masonry/files/css/Weiner.scss */
+.grid-item p {
+  margin: 5px 0;
+  font-size: 13px;
+  color: #666;
+}
+
+/* line 21, ../../../../../Downloads/css-masonry/files/css/Weiner.scss */
+.resp-media {
+  position: relative;
+  padding-bottom: 67.5%;
+  height: 0;
+  margin: 0;
+  overflow: hidden;
+}
+
+/* line 27, ../../../../../Downloads/css-masonry/files/css/Weiner.scss */
+.resp-media iframe,
+.resp-media object,
+.resp-media embed,
+.resp-media img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+/*# sourceMappingURL=Weiner.css.map */

@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "Weiner.css",
+	"sources": [
+		"../../../../Downloads/css-masonry/files/css/Weiner.scss"
+	],
+	"sourcesContent": [
+		".grid-item {\n  font-family: Helvetica;\n  width: 280px;\n  padding: 10px;\n  min-height: 40px;\n  img {\n    max-width: 100%;\n  }\n  h4 {\n    margin: 5px 0;\n    font-size: 16px;\n    color: #222;\n  }\n  p {\n    margin: 5px 0;\n    font-size: 13px;\n    color: #666;\n  }\n}\n\n.resp-media {\n  position: relative;\n  padding-bottom: 67.5%;\n  height: 0;\n  margin: 0;\n  overflow: hidden;\n  iframe,\n  object,\n  embed,\n  img {\n    position: absolute;\n    top: 0;\n    left: 0;\n    width: 100%;\n    height: 100%;\n  }\n}"
+	],
+	"names": [],
+	"mappings": ";AAAA,AAAA,UAAU,CAAC;EACT,WAAW,EAAE,SAAS;EACtB,KAAK,EAAE,KAAK;EACZ,OAAO,EAAE,IAAI;EACb,UAAU,EAAE,IAAI;CAcjB;;;AAlBD,AAKE,UALQ,CAKR,GAAG,CAAC;EACF,SAAS,EAAE,IAAI;CAChB;;;AAPH,AAQE,UARQ,CAQR,EAAE,CAAC;EACD,MAAM,EAAE,KAAK;EACb,SAAS,EAAE,IAAI;EACf,KAAK,EAAE,IAAI;CACZ;;;AAZH,AAaE,UAbQ,CAaR,CAAC,CAAC;EACA,MAAM,EAAE,KAAK;EACb,SAAS,EAAE,IAAI;EACf,KAAK,EAAE,IAAI;CACZ;;;AAGH,AAAA,WAAW,CAAC;EACV,QAAQ,EAAE,QAAQ;EAClB,cAAc,EAAE,KAAK;EACrB,MAAM,EAAE,CAAC;EACT,MAAM,EAAE,CAAC;EACT,QAAQ,EAAE,MAAM;CAWjB;;;AAhBD,AAME,WANS,CAMT,MAAM;AANR,WAAW,CAOT,MAAM;AAPR,WAAW,CAQT,KAAK;AARP,WAAW,CAST,GAAG,CAAC;EACF,QAAQ,EAAE,QAAQ;EAClB,GAAG,EAAE,CAAC;EACN,IAAI,EAAE,CAAC;EACP,KAAK,EAAE,IAAI;EACX,MAAM,EAAE,IAAI;CACb"
+}
